@@ -1,3 +1,5 @@
+package org.example;
+
 public class Pair<K, V> {
 
     private final K first;

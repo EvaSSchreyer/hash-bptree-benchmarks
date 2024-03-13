@@ -1,3 +1,5 @@
+package org.example;
+
 import java.util.ArrayList;
 
 public class LeafNode <Key extends Comparable<Key>, Value, M> extends Node<Key, Value, M>{

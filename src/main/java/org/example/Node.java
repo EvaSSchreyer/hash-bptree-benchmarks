@@ -1,3 +1,5 @@
+package org.example;
+
 import java.util.*;
 
 abstract class Node <Key extends Comparable<Key>, Value, M>{

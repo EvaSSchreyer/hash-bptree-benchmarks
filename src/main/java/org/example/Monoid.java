@@ -1,3 +1,5 @@
+package org.example;
+
 /**
  * A {@link Monoid} is the pairing of an associative function with an identity element.
  * @param <M> the element type this Monoid is formed over

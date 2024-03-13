@@ -1,3 +1,5 @@
+package org.example;
+
 import java.util.ArrayList;
 
 public class Tree <Key extends Comparable<Key>, Value, M>{

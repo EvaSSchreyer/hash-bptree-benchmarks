@@ -1,3 +1,5 @@
+package org.example;
+
 /**
  * Counts T, every Element T maps to 1
  * This is a monoid that counts elements with the count variable, saves the hash
