@@ -172,10 +172,10 @@ public class Tree <Key extends Comparable<Key>, Value, M>{
                 }
             }
         }
-        if (node != null && indexNode == node.keys.size()){
+        /*if (node != null && indexNode == node.keys.size()){
             node = node.getRightSibling();
             indexNode = 0;
-        }
+        }*/
         return new Pair<>(acc, Pair.createPair(node, indexNode));
     }
 
